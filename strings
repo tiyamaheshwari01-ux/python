@@ -1,0 +1,13 @@
+# strings 
+name = "tanishka"
+name = """tiyuu"""
+#this is how you can write string 
+
+# addiing on two string
+name1= "union"
+name2="pandey"
+print(name1+name2)
+len(name1)
+#len of string is never writte like this always remember 
+
+
